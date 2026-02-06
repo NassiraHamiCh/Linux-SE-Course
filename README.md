@@ -27,7 +27,7 @@ Ce cours a été réalisé dans le cadre du module **Systèmes d’Exploitation 
 
 ## 📖 Table des matières
 
-- [🎯 À propos](#-à-propos)
+- [🎯 À propos](#-À-propos)
 - [🚀 Contenu du cours](#-contenu-du-cours)
 - [📝 Exercices pratiques](#-exercices-pratiques)
 - [🛠️ Installation et utilisation](#️-installation-et-utilisation)
@@ -39,7 +39,7 @@ Ce cours a été réalisé dans le cadre du module **Systèmes d’Exploitation 
 
 ## 🎯 À propos
 
-Ce cours s'adresse aux étudiants en informatique de la filière IIA souhaitant acquérir des compétences solides en administration système Linux et en programmation Shell.
+Ce cours s'adresse aux aprenats en informatique  souhaitant acquérir des compétences solides en administration système Linux et en programmation Shell.
 
 ### Objectifs pédagogiques
 
@@ -52,7 +52,7 @@ Ce cours s'adresse aux étudiants en informatique de la filière IIA souhaitant 
 
 ### 🎓 Public cible
 
-- Étudiants en Licence Informatique (IIA S3)
+- Étudiants en Licence Informatique 
 - Débutants en Linux
 - Développeurs souhaitant maîtriser le Shell
 - Administrateurs système en formation
@@ -153,7 +153,7 @@ saluer() {
     echo "Bonjour $1 !"
 }
 
-saluer "Ahmed"  # Sortie : Bonjour Ahmed !
+saluer "Nassira"  # Sortie : Bonjour Nassira !
 ```
 
 👉 [**Voir le chapitre complet**](docs/03-programmation-shell.md)
@@ -212,7 +212,7 @@ saluer "Ahmed"  # Sortie : Bonjour Ahmed !
 ### Cloner ce dépôt
 
 ```bash
-git clone https://github.com/VOTRE-USERNAME/Linux-SE-Course.git
+git clone https://github.com/NassiraHamiCh/Linux-SE-Course.git
 cd Linux-SE-Course
 ```
 
@@ -227,7 +227,7 @@ chmod +x hello.sh
 ### Tester un exercice
 
 ```bash
-cd exercices/TD1/scripts
+cd TDS/TD1/scripts
 chmod +x exercice1.sh
 ./exercice1.sh
 ```
@@ -262,10 +262,6 @@ Consultez [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails.
 
 ## 📬 Contact
 
-**Pour les étudiants de la filière IIA :**
-
-- 🏫 **Université** : Mohammed Premier, Oujda
-- 📚 **Faculté** : Faculté Pluridisciplinaire de Nador
 - 📧 **Email** : nassirahamich15@gmail.com
 
 **Pour toute question concernant ce dépôt :**
@@ -286,16 +282,15 @@ Ce projet est sous licence **MIT**. Voir [LICENSE](LICENSE) pour plus d'informat
 ## 🌟 Remerciements
 
 - 👨‍🏫 **Professeur du module** Systèmes d'Exploitation à la FPN
-- 🎓 **Étudiants de la filière IIA** pour leurs contributions
 - 💻 **Communauté open-source** Linux et Bash
 
 ---
 
 ## 📊 Statistiques du dépôt
 
-![GitHub stars](https://img.shields.io/github/stars/VOTRE-USERNAME/Linux-SE-Course?style=social)
-![GitHub forks](https://img.shields.io/github/forks/VOTRE-USERNAME/Linux-SE-Course?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/VOTRE-USERNAME/Linux-SE-Course?style=social)
+![GitHub stars](https://img.shields.io/github/stars/NassiraHamiCh/Linux-SE-Course?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NassiraHamiCh/Linux-SE-Course?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/NassiraHamiCh/Linux-SE-Course?style=social)
 
 ---
 
